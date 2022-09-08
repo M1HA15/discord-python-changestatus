@@ -4,4 +4,4 @@ With a simple command you can change the status of your Discord bot created in d
 
 
 Do you need help?
-You can add me on Discord: M1HA1#0232
+You can contact on Discord Mihai: M1HA1#0001
